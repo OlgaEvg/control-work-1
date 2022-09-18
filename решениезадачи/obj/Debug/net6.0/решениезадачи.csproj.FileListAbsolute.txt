@@ -1,0 +1,15 @@
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\bin\Debug\net6.0\решениезадачи.exe
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\bin\Debug\net6.0\решениезадачи.deps.json
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\bin\Debug\net6.0\решениезадачи.runtimeconfig.json
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\bin\Debug\net6.0\решениезадачи.dll
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\bin\Debug\net6.0\решениезадачи.pdb
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\решениезадачи.csproj.AssemblyReference.cache
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\решениезадачи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\решениезадачи.AssemblyInfoInputs.cache
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\решениезадачи.AssemblyInfo.cs
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\решениезадачи.csproj.CoreCompileInputs.cache
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\решениезадачи.dll
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\refint\решениезадачи.dll
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\решениезадачи.pdb
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\решениезадачи.genruntimeconfig.cache
+C:\Users\dns\OneDrive\Рабочий стол\controlwork\control-work-1\решениезадачи\obj\Debug\net6.0\ref\решениезадачи.dll
